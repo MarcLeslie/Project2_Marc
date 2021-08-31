@@ -14,7 +14,7 @@ https://marcleslie.github.io/Project2_Marc/ <br>
 [Geographic Areas](https://geohub.lacity.org/datasets/lahub::lapd-divisions/about) <br>
 
 **ETL: Crime Data** <br>
-• Narrowed down to violent crimes; final dataset contains **996,161** incidents of crime with coordinates of where crime occurred <br>
+•   Narrowed down to violent crimes; final dataset contains **996,161** incidents of crime with coordinates of where crime occurred <br>
 •	Imported as CSV from Los Angeles City <br>
 •	Deleted rows missing location coordinates <br>
 •	Deleted columns not needed for analysis <br>
