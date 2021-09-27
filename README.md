@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/79372665/134965210-ac05300a-d87d-46af-a59b-7efdd5dc09c3.png)
+
+
 <h1> Project 2: Steve, Andrew, Drew, and Marc </h1>
 
 <h2> Topic: Crime related to marijuana dispensaries in Los Angeles City  </h2>
